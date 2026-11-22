@@ -1,0 +1,31 @@
+<Page x:Class="AutoService.Wpf.Pages.StatsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="Статистика"
+      Background="{StaticResource PageBackground}">
+    <Grid Margin="23,20">
+        <Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="*"/></Grid.RowDefinitions>
+        <DockPanel Grid.Row="0" LastChildFill="True" Margin="0,0,0,12">
+            <Button Content="Назад" Style="{StaticResource BackButtonStyle}" Click="Back_Click" DockPanel.Dock="Left" VerticalAlignment="Top" Margin="0,0,20,0"/>
+            <StackPanel><TextBlock Text="Статистика сотрудников" Style="{StaticResource PageTitle}"/><TextBlock Text="Сколько работ выполнено качественно и сколько ошибок подтверждено." Style="{StaticResource PageSubtitle}" Margin="0,5,0,0"/></StackPanel>
+        </DockPanel>
+        <WrapPanel Grid.Row="1" Margin="0,0,0,10">
+            <TextBlock Text="С" VerticalAlignment="Center"/><DatePicker x:Name="FromPicker" Width="145"/>
+            <TextBlock Text="По" VerticalAlignment="Center"/><DatePicker x:Name="ToPicker" Width="145"/>
+            <Button Content="Показать" Style="{StaticResource PrimaryButton}" Click="Reload_Click"/>
+            <Button Content="За всё время" Style="{StaticResource BackButtonStyle}" Click="All_Click"/>
+        </WrapPanel>
+        <ListView x:Name="StatsList" Grid.Row="2" Style="{StaticResource ItemCardList}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border Style="{StaticResource WhiteCard}" Margin="0,0,0,8">
+                        <StackPanel>
+                            <TextBlock Text="{Binding FullName}" FontSize="15" FontWeight="SemiBold" Foreground="Black"/>
+                            <TextBlock Margin="0,4,0,0"><Run Text="ID: "/><Run Text="{Binding Id}"/><Run Text="   Всего работ: "/><Run Text="{Binding TotalWorks}"/></TextBlock>
+                            <TextBlock Margin="0,4,0,0"><Run Text="Качественных работ: "/><Run Text="{Binding GoodWorksCount}"/><Run Text="   Ошибок: "/><Run Text="{Binding BadWorksCount}"/></TextBlock>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>

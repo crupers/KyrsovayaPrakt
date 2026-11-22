@@ -1,0 +1,676 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "apiService",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/cars": {
+      "get": {
+        "tags": [
+          "Cars"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Cars"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Car"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Car"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Car"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/cars/{id}": {
+      "put": {
+        "tags": [
+          "Cars"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Car"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Car"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Car"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/quality/works": {
+      "get": {
+        "tags": [
+          "Quality"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/quality/{workId}/check": {
+      "post": {
+        "tags": [
+          "Quality"
+        ],
+        "parameters": [
+          {
+            "name": "workId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CheckRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CheckRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CheckRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/repairs": {
+      "get": {
+        "tags": [
+          "Repairs"
+        ],
+        "parameters": [
+          {
+            "name": "plate",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Repairs"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateRepairRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateRepairRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateRepairRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/repairs/{id}/works": {
+      "post": {
+        "tags": [
+          "Repairs"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateWorkRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateWorkRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateWorkRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/statistics": {
+      "get": {
+        "tags": [
+          "Statistics"
+        ],
+        "parameters": [
+          {
+            "name": "from",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "to",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/users": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Users"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateWorkerRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateWorkerRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateWorkerRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Car": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "plateNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "brand": {
+            "type": "string",
+            "nullable": true
+          },
+          "model": {
+            "type": "string",
+            "nullable": true
+          },
+          "vin": {
+            "type": "string",
+            "nullable": true
+          },
+          "ownerName": {
+            "type": "string",
+            "nullable": true
+          },
+          "ownerPhone": {
+            "type": "string",
+            "nullable": true
+          },
+          "repairs": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Repair"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CheckRequest": {
+        "type": "object",
+        "properties": {
+          "checkedByUserId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "cause": {
+            "type": "string",
+            "nullable": true
+          },
+          "comment": {
+            "type": "string",
+            "nullable": true
+          },
+          "repeatRepairId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateRepairRequest": {
+        "type": "object",
+        "properties": {
+          "carId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "createdByUserId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "organization": {
+            "type": "string",
+            "nullable": true
+          },
+          "problemDescription": {
+            "type": "string",
+            "nullable": true
+          },
+          "diagnosis": {
+            "type": "string",
+            "nullable": true
+          },
+          "mileage": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "previousRepairId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateWorkRequest": {
+        "type": "object",
+        "properties": {
+          "workerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "installedParts": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateWorkerRequest": {
+        "type": "object",
+        "properties": {
+          "fullName": {
+            "type": "string",
+            "nullable": true
+          },
+          "login": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "QualityCheck": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "workId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "checkedByUserId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "repeatRepairId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "cause": {
+            "type": "string",
+            "nullable": true
+          },
+          "comment": {
+            "type": "string",
+            "nullable": true
+          },
+          "checkedAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "checkedByUser": {
+            "$ref": "#/components/schemas/User"
+          },
+          "repeatRepair": {
+            "$ref": "#/components/schemas/Repair"
+          },
+          "work": {
+            "$ref": "#/components/schemas/RepairWork"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Repair": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "carId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "organization": {
+            "type": "string",
+            "nullable": true
+          },
+          "problemDescription": {
+            "type": "string",
+            "nullable": true
+          },
+          "diagnosis": {
+            "type": "string",
+            "nullable": true
+          },
+          "mileage": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "createdAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          },
+          "previousRepairId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "createdByUserId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "car": {
+            "$ref": "#/components/schemas/Car"
+          },
+          "createdByUser": {
+            "$ref": "#/components/schemas/User"
+          },
+          "inversePreviousRepair": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Repair"
+            },
+            "nullable": true
+          },
+          "previousRepair": {
+            "$ref": "#/components/schemas/Repair"
+          },
+          "qualityChecks": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/QualityCheck"
+            },
+            "nullable": true
+          },
+          "works": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/RepairWork"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "RepairWork": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "repairId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "workerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "installedParts": {
+            "type": "string",
+            "nullable": true
+          },
+          "completedAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "qualityStatus": {
+            "type": "string",
+            "nullable": true
+          },
+          "qualityChecks": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/QualityCheck"
+            },
+            "nullable": true
+          },
+          "repair": {
+            "$ref": "#/components/schemas/Repair"
+          },
+          "worker": {
+            "$ref": "#/components/schemas/User"
+          }
+        },
+        "additionalProperties": false
+      },
+      "User": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "fullName": {
+            "type": "string",
+            "nullable": true
+          },
+          "login": {
+            "type": "string",
+            "nullable": true
+          },
+          "passwordHash": {
+            "type": "string",
+            "nullable": true
+          },
+          "role": {
+            "type": "string",
+            "nullable": true
+          },
+          "goodWorksCount": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "badWorksCount": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "isActive": {
+            "type": "boolean"
+          },
+          "qualityChecks": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/QualityCheck"
+            },
+            "nullable": true
+          },
+          "repairWorks": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/RepairWork"
+            },
+            "nullable": true
+          },
+          "repairs": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Repair"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

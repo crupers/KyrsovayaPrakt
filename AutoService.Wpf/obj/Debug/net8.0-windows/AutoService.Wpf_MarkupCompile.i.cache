@@ -1,0 +1,20 @@
+﻿AutoService.Wpf
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\zelen\OneDrive\Рабочий стол\курсовой\AutoService.Wpf\obj\Debug\net8.0-windows\
+AutoService.Wpf
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\zelen\OneDrive\Рабочий стол\курсовой\AutoService.Wpf\App.xaml
+7-1564255570
+
+17-1462732526
+198338916705
+MainWindow.xaml;Pages\CarsPage.xaml;Pages\MenuPage.xaml;Pages\QualityPage.xaml;Pages\RepairsPage.xaml;Pages\StatsPage.xaml;Pages\UsersPage.xaml;
+
+False
+

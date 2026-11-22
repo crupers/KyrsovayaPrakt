@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\controllers\\repairscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\controllers\\repairscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\createrepairrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\createrepairrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\apiservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\apiservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\context\\autoservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\context\\autoservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\autoservicecoursecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\autoservicecoursecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\createworkerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\createworkerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\repairwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\repairwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiservice\\apiservice\\repair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84289269-C94C-4534-A336-BC000DF36ADE}|apiService\\apiService.csproj|solutionrelative:apiservice\\repair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepairsController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Controllers\\RepairsController.cs",
+              "RelativeDocumentMoniker": "apiService\\Controllers\\RepairsController.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Controllers\\RepairsController.cs",
+              "RelativeToolTip": "apiService\\Controllers\\RepairsController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwHwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T17:09:57.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "apiService\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "apiService\\Controllers\\StatisticsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T17:12:13.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QualityController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Controllers\\QualityController.cs",
+              "RelativeDocumentMoniker": "apiService\\Controllers\\QualityController.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Controllers\\QualityController.cs",
+              "RelativeToolTip": "apiService\\Controllers\\QualityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T17:10:27.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "apiService\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "apiService\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T17:09:11.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateRepairRequest.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\CreateRepairRequest.cs",
+              "RelativeDocumentMoniker": "apiService\\CreateRepairRequest.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\CreateRepairRequest.cs",
+              "RelativeToolTip": "apiService\\CreateRepairRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T17:42:35.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "apiService\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "apiService\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T17:02:01.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\appsettings.json",
+              "RelativeDocumentMoniker": "apiService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\appsettings.json",
+              "RelativeToolTip": "apiService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-22T16:50:30.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Program.cs",
+              "RelativeDocumentMoniker": "apiService\\Program.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Program.cs",
+              "RelativeToolTip": "apiService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:39:56.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\User.cs",
+              "RelativeDocumentMoniker": "apiService\\User.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\User.cs",
+              "RelativeToolTip": "apiService\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T17:05:53.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "apiService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "apiService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-22T17:38:26.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "apiService.http",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\apiService.http",
+              "RelativeDocumentMoniker": "apiService\\apiService.http",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\apiService.http",
+              "RelativeToolTip": "apiService\\apiService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-22T16:50:27.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoServiceCourseContext.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\AutoServiceCourseContext.cs",
+              "RelativeDocumentMoniker": "apiService\\AutoServiceCourseContext.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\AutoServiceCourseContext.cs",
+              "RelativeToolTip": "apiService\\AutoServiceCourseContext.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAIAwwHQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:49:07.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Context\\AutoServiceContext.cs",
+              "RelativeDocumentMoniker": "apiService\\Context\\AutoServiceContext.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Context\\AutoServiceContext.cs",
+              "RelativeToolTip": "apiService\\Context\\AutoServiceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:51:40.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateWorkerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\CreateWorkerRequest.cs",
+              "RelativeDocumentMoniker": "apiService\\CreateWorkerRequest.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\CreateWorkerRequest.cs",
+              "RelativeToolTip": "apiService\\CreateWorkerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T17:04:36.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "apiService",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\apiService.csproj",
+              "RelativeDocumentMoniker": "apiService\\apiService.csproj",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\apiService.csproj",
+              "RelativeToolTip": "apiService\\apiService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-22T16:57:14.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RepairWork.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\RepairWork.cs",
+              "RelativeDocumentMoniker": "apiService\\RepairWork.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\RepairWork.cs",
+              "RelativeToolTip": "apiService\\RepairWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T17:02:52.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repair.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Repair.cs",
+              "RelativeDocumentMoniker": "apiService\\Repair.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\apiService\\apiService\\Repair.cs",
+              "RelativeToolTip": "apiService\\Repair.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:59:30.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

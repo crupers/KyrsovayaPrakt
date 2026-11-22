@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\pages\\carspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:pages\\carspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\pages\\carspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:pages\\carspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\pages\\userspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:pages\\userspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\pages\\qualitypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:pages\\qualitypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\pages\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:pages\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\pages\\repairspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:pages\\repairspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\pages\\statspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:pages\\statspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\models\\workmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:models\\workmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\models\\workermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:models\\workermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\models\\statsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:models\\statsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\models\\repairmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:models\\repairmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\models\\qualitycheckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:models\\qualitycheckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\pages\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:pages\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\pages\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:pages\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\pages\\statspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:pages\\statspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\pages\\repairspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:pages\\repairspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\pages\\qualitypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:pages\\qualitypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\autoservice.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8FEAA99-6A4B-B729-F381-BB8FE0405EE9}|AutoService.Wpf.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QualityPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\QualityPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\QualityPage.xaml.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\QualityPage.xaml.cs",
+              "RelativeToolTip": "Pages\\QualityPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:17:52.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\CarsPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\CarsPage.xaml",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\CarsPage.xaml",
+              "RelativeToolTip": "Pages\\CarsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-18T12:40:34.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\CarsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\CarsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\CarsPage.xaml.cs*",
+              "RelativeToolTip": "Pages\\CarsPage.xaml.cs*",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv38AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:11:00.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\UsersPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\UsersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\UsersPage.xaml.cs",
+              "RelativeToolTip": "Pages\\UsersPage.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:09:56.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepairsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\RepairsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\RepairsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\RepairsPage.xaml.cs",
+              "RelativeToolTip": "Pages\\RepairsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:18:45.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\MenuPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MenuPage.xaml.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\MenuPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MenuPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:17:47.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\StatsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\StatsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\StatsPage.xaml.cs",
+              "RelativeToolTip": "Pages\\StatsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:19:01.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QualityCheckModel.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Models\\QualityCheckModel.cs",
+              "RelativeDocumentMoniker": "Models\\QualityCheckModel.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Models\\QualityCheckModel.cs",
+              "RelativeToolTip": "Models\\QualityCheckModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:19:25.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepairModel.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Models\\RepairModel.cs",
+              "RelativeDocumentMoniker": "Models\\RepairModel.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Models\\RepairModel.cs",
+              "RelativeToolTip": "Models\\RepairModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:19:35.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatsModel.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Models\\StatsModel.cs",
+              "RelativeDocumentMoniker": "Models\\StatsModel.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Models\\StatsModel.cs",
+              "RelativeToolTip": "Models\\StatsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:19:33.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkerModel.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Models\\WorkerModel.cs",
+              "RelativeDocumentMoniker": "Models\\WorkerModel.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Models\\WorkerModel.cs",
+              "RelativeToolTip": "Models\\WorkerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:20:05.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkModel.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Models\\WorkModel.cs",
+              "RelativeDocumentMoniker": "Models\\WorkModel.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Models\\WorkModel.cs",
+              "RelativeToolTip": "Models\\WorkModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:20:08.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T16:20:14.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\UsersPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\UsersPage.xaml",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\UsersPage.xaml",
+              "RelativeToolTip": "Pages\\UsersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-18T13:04:21.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RepairsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\RepairsPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\RepairsPage.xaml",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\RepairsPage.xaml",
+              "RelativeToolTip": "Pages\\RepairsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-18T13:04:08.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-18T13:02:50.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QualityPage.xaml",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\QualityPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\QualityPage.xaml",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\QualityPage.xaml",
+              "RelativeToolTip": "Pages\\QualityPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-18T13:02:44.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuPage.xaml",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\MenuPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MenuPage.xaml",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\MenuPage.xaml",
+              "RelativeToolTip": "Pages\\MenuPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-18T13:02:43.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Models\\CarModel.cs",
+              "RelativeDocumentMoniker": "Models\\CarModel.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Models\\CarModel.cs",
+              "RelativeToolTip": "Models\\CarModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T12:38:41.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StatsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\StatsPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\StatsPage.xaml",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\AutoService.Wpf\\Pages\\StatsPage.xaml",
+              "RelativeToolTip": "Pages\\StatsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-18T13:04:15.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

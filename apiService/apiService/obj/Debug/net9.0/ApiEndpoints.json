@@ -1,0 +1,180 @@
+[
+  {
+    "ContainingType": "apiService.Controllers.CarsController",
+    "Method": "GetAll",
+    "RelativePath": "api/cars",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apiService.Controllers.CarsController",
+    "Method": "Add",
+    "RelativePath": "api/cars",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "car",
+        "Type": "apiService.Car",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apiService.Controllers.CarsController",
+    "Method": "Update",
+    "RelativePath": "api/cars/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "data",
+        "Type": "apiService.Car",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apiService.Controllers.QualityController",
+    "Method": "Check",
+    "RelativePath": "api/quality/{workId}/check",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "apiService.Controllers.QualityController\u002BCheckRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apiService.Controllers.QualityController",
+    "Method": "GetWorks",
+    "RelativePath": "api/quality/works",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apiService.Controllers.RepairsController",
+    "Method": "GetAll",
+    "RelativePath": "api/repairs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "plate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apiService.Controllers.RepairsController",
+    "Method": "Add",
+    "RelativePath": "api/repairs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "apiService.CreateRepairRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apiService.Controllers.RepairsController",
+    "Method": "AddWork",
+    "RelativePath": "api/repairs/{id}/works",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "apiService.Controllers.RepairsController\u002BCreateWorkRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apiService.Controllers.StatisticsController",
+    "Method": "Get",
+    "RelativePath": "api/statistics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "from",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "to",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apiService.Controllers.UsersController",
+    "Method": "GetAll",
+    "RelativePath": "api/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apiService.Controllers.UsersController",
+    "Method": "Add",
+    "RelativePath": "api/users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "apiService.CreateWorkerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

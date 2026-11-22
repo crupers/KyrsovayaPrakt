@@ -1,0 +1,43 @@
+<Page x:Class="AutoService.Wpf.Pages.QualityPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="Проверка качества"
+      Background="{StaticResource PageBackground}">
+    <Grid Margin="23,20">
+        <Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="*"/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
+        <DockPanel Grid.Row="0" LastChildFill="True" Margin="0,0,0,12">
+            <Button Content="Назад" Style="{StaticResource BackButtonStyle}" Click="Back_Click" DockPanel.Dock="Left" VerticalAlignment="Top" Margin="0,0,20,0"/>
+            <StackPanel><TextBlock Text="Проверка качества" Style="{StaticResource PageTitle}"/><TextBlock Text="Повторная поломка не считается ошибкой механика без подтверждения причины." Style="{StaticResource PageSubtitle}" Margin="0,5,0,0"/></StackPanel>
+        </DockPanel>
+        <ListView x:Name="PendingList" Grid.Row="1" Style="{StaticResource ItemCardList}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border Style="{StaticResource WhiteCard}" Margin="0,0,0,8">
+                        <StackPanel>
+                            <TextBlock Text="{Binding Description}" FontSize="15" FontWeight="SemiBold" Foreground="Black"/>
+                            <TextBlock Margin="0,4,0,0"><Run Text="Работа № "/><Run Text="{Binding Id}"/><Run Text="   Ремонт № "/><Run Text="{Binding RepairId}"/><Run Text="   Госномер: "/><Run Text="{Binding PlateNumber}"/></TextBlock>
+                            <TextBlock Margin="0,3,0,0"><Run Text="Механик: "/><Run Text="{Binding WorkerName}"/><Run Text="   Результат: "/><Run Text="{Binding QualityDisplay}"/></TextBlock>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Border Grid.Row="2" Style="{StaticResource WhiteCard}" Margin="0,12,0,0">
+            <StackPanel>
+                <TextBlock Text="Итог проверки выбранной работы" FontSize="15" FontWeight="SemiBold"/>
+                <ComboBox x:Name="CauseBox" SelectedIndex="0" MaxWidth="490" HorizontalAlignment="Left" Margin="0,8,0,8">
+                    <ComboBoxItem Content="Работа выполнена качественно" Tag="Good"/>
+                    <ComboBoxItem Content="Подтверждена ошибка механика" Tag="WorkerError"/>
+                    <ComboBoxItem Content="Заводской дефект запчасти" Tag="DefectivePart"/>
+                    <ComboBoxItem Content="Другая причина, без ошибки механика" Tag="Other"/>
+                </ComboBox>
+                <TextBlock Text="Комментарий и причина решения"/>
+                <TextBox x:Name="CommentBox"/>
+                <WrapPanel Margin="0,8,0,0">
+                    <StackPanel><TextBlock Text="ID повторного ремонта (необязательно)"/><TextBox x:Name="RepeatBox" Width="155" HorizontalAlignment="Left"/></StackPanel>
+                    <Button Content="Сохранить проверку" Style="{StaticResource PrimaryButton}" Click="Check_Click" VerticalAlignment="Bottom"/>
+                </WrapPanel>
+                <TextBlock x:Name="MessageText" Foreground="Black" Margin="0,8,0,0" TextWrapping="Wrap"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>

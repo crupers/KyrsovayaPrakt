@@ -1,0 +1,9 @@
+<Window x:Class="AutoService.Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Автосервис" Width="1000" Height="730"
+        MinWidth="780" MinHeight="570" WindowStartupLocation="CenterScreen"
+        FontFamily="Segoe UI" Background="White" Foreground="Black">
+    <!-- Одно окно, всё остальное — страницы. -->
+    <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Background="White"/>
+</Window>

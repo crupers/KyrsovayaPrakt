@@ -1,0 +1,18 @@
+<Page x:Class="AutoService.Wpf.Pages.MenuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Background="White" Title="Меню">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="320">
+            <TextBlock Text="АВТОСЕРВИС" FontSize="29" FontWeight="Bold"
+                       Foreground="Black" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+            <TextBlock Text="Разделы программы" FontSize="15" Foreground="Black"
+                       HorizontalAlignment="Center" Margin="0,0,0,13"/>
+            <Button Content="Сотрудники" Style="{StaticResource MenuButtonStyle}" Click="Users_Click"/>
+            <Button Content="Автомобили" Style="{StaticResource MenuButtonStyle}" Click="Cars_Click"/>
+            <Button Content="История ремонтов" Style="{StaticResource MenuButtonStyle}" Click="Repairs_Click"/>
+            <Button Content="Проверка качества" Style="{StaticResource MenuButtonStyle}" Click="Quality_Click"/>
+            <Button Content="Статистика" Style="{StaticResource MenuButtonStyle}" Click="Stats_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
